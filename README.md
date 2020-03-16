@@ -1,22 +1,25 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
-## Background
+<!-- ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
 
 ![Images/landingResize.png](Images/landingResize.png)
 
-### Before You Begin
+### Before You Begin -->
 
-1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**.
+<!-- This is about creating a dashboard. We are attempting to display data in a way that is 
+user friendly and beautiful. In addition to being able to build a website and display complex data in a way that is understandable and aesthetically pleasing quickly and relatively easily, visualizing data is about telling a story and creating a narrative that is both educational and enthralling. We are story tellers. We tell stories with data. The difference between a data scientist and a novelist our fundamental drive is to educate and inform the viewer.  -->
 
-2. Clone the new repository to your computer.
+<!-- 1. Create a new repository for this project called `Web-Design-Challenge`. **Do not add this homework to an existing repository**. -->
 
-3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**.
+<!-- 2. Clone the new repository to your computer. -->
 
-4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders.
+<!-- 3. Inside your local git repository, create a directory for the web challenge. Use a folder name to correspond to the challenge: **WebVisualizations**. -->
 
-5. Push the above changes to GitHub or GitLab.
+<!-- 4. Add your **html** files to this folder as well as your **assets**, **Resources** and **visualizations** folders. -->
+
+<!-- 5. Push the above changes to GitHub or GitLab. -->
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
